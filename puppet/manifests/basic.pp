@@ -1,3 +1,5 @@
+class { 'basic': }
+
 class basic{
   # run apt-get update before anything else runs
   class {"basic::users":} ->
