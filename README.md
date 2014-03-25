@@ -23,3 +23,8 @@ What is installed?
 - Redis
 - Beanstalkd or RabiitMQ
 - Elastic Search
+
+Setup
+==========
+- Look in the config.yaml for to configure everything
+- You will need to configure new apache virtual hosts, depending on how many projects you work on
