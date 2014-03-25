@@ -1,3 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 mod "stdlib", :git => "https://github.com/puppetlabs/puppetlabs-stdlib.git"
+mod "concat", :git => "https://github.com/puppetlabs/puppetlabs-concat.git"
+
+mod "apache", :git => "https://github.com/puppetlabs/puppetlabs-apache.git"
+mod "nodejs", :git => "https://github.com/puppetlabs/puppetlabs-nodejs.git"
